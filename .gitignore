@@ -1,3 +1,5 @@
-platforms/
+platforms/android/
+platforms/browser/
 node_modules/
-plugins/
+
+plugins/cordova-plugin-*/
